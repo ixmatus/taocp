@@ -1,4 +1,0 @@
-taocp
-=====
-
-MIXAL repository
