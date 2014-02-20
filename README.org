@@ -1,0 +1,4 @@
+* Welcome!
+
+  This is a repository of the MIXAL code I write while working through
+  Knuth's books. I use GNU's MDK (MIXAL Development Kit).
